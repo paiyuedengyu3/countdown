@@ -1,0 +1,29 @@
+.outer{
+    margin:50px auto;
+    width: 250px;
+    text-align: center;
+}
+#number{
+    height: 50px;
+    width: 100%;
+    font-size: 50px;
+    padding: 50px 0;
+    margin: 0;
+    text-align: center;
+    border: 2px solid blue;
+
+}
+
+.button{
+    height: 50px;
+    width: 50%;
+}
+.button:hover{
+    color: blue;
+    background-color: azure;
+}
+.inputT{
+    font-size: 20px;
+    width: 50%;
+    display: inline-block;
+}
